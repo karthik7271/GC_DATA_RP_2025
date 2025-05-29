@@ -4,11 +4,8 @@
 
 # To run the dashboard :
     1. npm install -g npm          
-    2. open .\electromart-dashboard\electromart-dashboard
-    3. node ".\src\App.js"
-    4. npm i
-    5. npm i lucide-react
-    6. npm start
+    2. cd "electromart-dashboard copy/electromart-dashboard copy"
+    3. npm start
 
 # If trying manually run in order:
     1. cleaning
